@@ -3,7 +3,7 @@
     "name": "Job Note Query Enterprise",
     "description": "Professional job note management system",
     "release_notes": "Bug fixes and performance improvements\n- Fixed update system\n- Improved download speed\n- Enhanced user interface",
-    "download_url": "https://github.com/biosdoctor/JOB-NOTE-QUERY/releases/download/1.0.0/JOB.NOTE.QUERY.exe",
+    "download_url": "hhttps://github.com/biosdoctor/JOB-NOTE-QUERY/releases/download/1.0.1/JOB.NOTE.QUERY.exe",
     "release_date": "2024-01-15",
     "min_required_version": "1.0.0"
 }
