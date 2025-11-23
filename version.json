@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "name": "Job Note Query Enterprise",
     "description": "Professional job note management system",
     "release_notes": "Initial public release with auto-update functionality",
