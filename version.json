@@ -1,9 +1,9 @@
 {
-    "version": "1.0.5",
+    "version": "1.0.4",
     "name": "Job Note Query Enterprise",
     "description": "Professional job note management system",
     "release_notes": "Bug fixes and performance improvements\n- Fixed Database Sync\n- Improved MultiUser\n- Fixed Response Timing",
     "download_url": "https://github.com/biosdoctor/JOB-NOTE-QUERY/releases/download/1.0.4/Setup_Jobnote_1.0.4.exe",
     "release_date": "2025-12-08",
-    "min_required_version": "1.0.3"
+    "min_required_version": "1.0.2"
 }
