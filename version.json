@@ -4,6 +4,6 @@
     "description": "Professional job note management system",
     "release_notes": "Bug fixes and performance improvements\n- Fixed Database Sync\n- Improved MultiUser\n- Fixed Response Timing",
     "download_url": "https://github.com/biosdoctor/JOB-NOTE-QUERY/releases/download/2.3.8/Setup_RMA_Matrix_v2.3.8.exe",
-    "release_date": "2026-06-22",
+    "release_date": "2026-06-25",
     "min_required_version": "1.1.1"
 }
