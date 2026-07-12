@@ -1,5 +1,5 @@
 {
-    "version": "2.4.0",
+    "version": "2.3.9",
     "name": "Job Note Query Enterprise",
     "description": "Professional job note management system",
     "release_notes": "Bug fixes and performance improvements\n- Fixed Database Sync\n- Improved MultiUser\n- Fixed Response Timing",
